@@ -1,2 +1,4 @@
 # pyladies-receptar
-Seznam receptu
+Seznam mych oblibenych receptu
+
+Zde budu shromazdovat recepty.
